@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: BotRaid
+## Notes: Groups and raids from playerbots: presets per era and faction, specs, guild, levels
+## Notes-ruRU: Собирает группу или рейд из playerbots по пресетам эпохи и фракции, раздаёт спеки, ведёт гильдию
+## Version: 2.0
+## SavedVariablesPerCharacter: BotRaidDB
+BotRaid.lua
